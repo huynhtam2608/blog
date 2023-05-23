@@ -22,3 +22,26 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+
+* Features
+* Modules:
+  users:
+    create a user
+    list of users
+    update a user
+    delete a user
+  authentication and authorization --- devise gem
+  tags:
+    create a tag
+    list of tags
+    update a tag
+    delete a tag
+  posts:
+    create a post
+    list of posts
+    update a post
+    delete a post
+    relationship (1 user -> many posts, 1 post -> many tags)
